@@ -13,7 +13,7 @@ variable "ref_name" {
 variable "major" {
   description = "Major version"
   type        = string
-  default     = "1"
+  default     = "main"
 }
 
 variable "minor" {
