@@ -7,7 +7,7 @@ variable "base_ref" {
 variable "ref_name" {
   description = "Reference name"
   type        = string
-  default     = "old-name"
+  default     = "main"
 }
 
 variable "major" {
